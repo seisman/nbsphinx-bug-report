@@ -10,7 +10,9 @@ Welcome to nbsphinx-bug-report's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   notebook.ipynb
 
+This is a setence in rst.
 
 Indices and tables
 ==================
