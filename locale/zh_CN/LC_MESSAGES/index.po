@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../index.rst:15
 msgid "This is a setence in rst."
-msgstr ""
+msgstr "这是 rst 中的语句"
 
 #: ../../index.rst:18
 msgid "Indices and tables"
