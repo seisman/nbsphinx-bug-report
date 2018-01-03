@@ -28,5 +28,5 @@ msgstr ""
 
 #: ../../notebook.ipynb:16
 msgid "This is a sentence in notebook."
-msgstr ""
+msgstr "notebook中的语句"
 
